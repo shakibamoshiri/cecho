@@ -1,12 +1,12 @@
 
 ### cecho
-or colorize echo is a simple `C` Language code that allow you seeing the output of [ANSI COLOR CPDE]().
+Or colorize echo, is a simple `C` Language code that allows you seeing the output of [ANSI COLOR CPDE](https://en.wikipedia.org/wiki/ANSI_escape_code).  
 
-The only thing you need is just the `gcc` compile to compile the code and then use it.
-Or simply you can use `make` command:
-Of course first: `git clone https://github.com/k-five/cecho.git`  
+The only thing you need is just the `gcc` compiler to compile the code and then use it.  
+Or simply you can use `make` command:  
+Of course first: `git clone https://github.com/k-five/cecho.git`   
 
-end then:
+and then:  
 
 ```
 cd cecho
