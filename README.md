@@ -11,7 +11,7 @@ and then:
 ```
 cd cecho
 make build
-makd test
+make test
 make clean
 ```
 Without `make` and using `gcc` directly:
@@ -25,3 +25,5 @@ gcc -O2 -std=c11 main.c -o cecho
 - cecho i-green * endl   
 - cecho random * endl
 
+### screenshot:  
+![cecho_screenshot](https://github.com/k-five/cecho/blob/master/cecho_screenshot.png)
